@@ -1,0 +1,14 @@
+{
+  "mod_id": "template_modid",
+  "version": "0.0.1",
+  "mod_page_url": "",
+  "dll": "TemplateMod.dll",
+  "authors": [],
+  "icon": "textures/MyModName/icon",
+  "mappings": "",
+  "dependencies": {
+    "quintessential_core": "[0.6.2,)",
+    "quintessential_data": "[0.6.2,)"
+  },
+  "conflicts": []
+}
