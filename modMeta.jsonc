@@ -4,7 +4,7 @@
   "mod_page_url": "",
   "dll": "TemplateMod.dll",
   "authors": [],
-  "icon": "textures/MyModName/icon",
+  "icon": "textures/template_modid/icon",
   "mappings": "",
   "dependencies": {
     "quintessential_core": "[0.7.0,)",
